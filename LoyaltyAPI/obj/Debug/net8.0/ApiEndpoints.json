@@ -1,0 +1,78 @@
+[
+  {
+    "ContainingType": "COBXController",
+    "Method": "GetTransactionDetails",
+    "RelativePath": "api/COBX/getTransactionDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "COBXController",
+    "Method": "GetTransactionTypes",
+    "RelativePath": "api/COBX/getTransactionTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoyaltyController",
+    "Method": "IntegrateData",
+    "RelativePath": "api/Loyalty/integrateData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebLoanAppController",
+    "Method": "GetClientWalletById",
+    "RelativePath": "api/WebLoanApp/clientwallet/{clientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LoyaltyAPI.Models.ClientWallet",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebLoanAppController",
+    "Method": "GetClientWallets",
+    "RelativePath": "api/WebLoanApp/getclientwallets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[LoyaltyAPI.Models.ClientWallet, LoyaltyAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

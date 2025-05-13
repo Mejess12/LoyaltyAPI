@@ -1,0 +1,7 @@
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.csproj.AssemblyReference.cache
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.AssemblyInfoInputs.cache
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.AssemblyInfo.cs
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.csproj.CoreCompileInputs.cache
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\JessProject\LoyaltyAPI\loyaltyapi\obj\Debug\net6.0\LoyaltyAPI.MvcApplicationPartsAssemblyInfo.cache

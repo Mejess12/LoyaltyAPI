@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pPFlfh8e2O4JeNOKCTPVDKMi++cOy3hBIqKP02vv8lQ=",
+  "Source": "LoyaltyAPI",
+  "BasePath": "_content/LoyaltyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
